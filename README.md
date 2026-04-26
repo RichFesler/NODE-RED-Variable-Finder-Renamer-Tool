@@ -1,4 +1,4 @@
-# Node-RED Variable Finder & Refactor Tool
+# Node-Red: Variable Finder & Refactor Tool
 
 ## Overview
 This tool solves a core Node-RED problem:
