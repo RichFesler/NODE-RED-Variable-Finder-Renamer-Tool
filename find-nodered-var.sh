@@ -5,8 +5,6 @@
 # Classifies READ / WRITE / MATCH
 # Supports interactive rename with backup
 
-#!/usr/bin/env bash
-
 FLOW="${1:-$HOME/.node-red/flows.json}"
 
 if [[ ! -f "$FLOW" ]]; then
