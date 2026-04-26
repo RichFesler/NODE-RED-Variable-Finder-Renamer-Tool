@@ -1,9 +1,6 @@
 # Node-RED Variable Finder & Refactor Tool
 
-## Overview (Short)
-Command-line tool to locate, classify, and safely rename variables inside Node-RED `flows.json`.
-
-## Overview (Long)
+## Overview
 This tool solves a core Node-RED problem:
 
 > There is no native way to track variable usage across flows.
